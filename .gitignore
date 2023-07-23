@@ -19,7 +19,7 @@
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
+/start-project/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
