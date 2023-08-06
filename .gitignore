@@ -11,6 +11,8 @@
 /start-project/.angular/cache/*
 /basics-assignment-2-start/node_modules
 /basics-assignment-2-start/.angular/cache/*
+/basics-assignment-3-start/node_modules
+/basics-assignment-3-start/.angular/cache/*
 
 # IDEs and editors
 /.idea
