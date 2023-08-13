@@ -7,16 +7,6 @@
 
 # dependencies
 /node_modules
-/start-project/node_modules
-/start-project/.angular/cache/*
-/basics-assignment-2-start/node_modules
-/basics-assignment-2-start/.angular/cache/*
-/basics-assignment-3-start/node_modules
-/basics-assignment-3-start/.angular/cache/*
-/big-project-app/node_modules
-/big-project-app/.angular/cache/*
-/cmp-databinding-assignment-start/node_modules
-/cmp-databinding-assignment-start/.angular/cache/*
 
 # IDEs and editors
 /.idea
@@ -28,12 +18,11 @@
 *.sublime-workspace
 
 # IDE - VSCode
-/start-project/.vscode/*
+.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-/start-project/.vscode
 
 # misc
 /.sass-cache
@@ -48,4 +37,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-Angular cli.lnk
