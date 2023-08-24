@@ -17,6 +17,8 @@
 /big-project-app/.angular/cache/*
 /cmp-databinding-assignment-start/node_modules
 /cmp-databinding-assignment-start/.angular/cache/*
+/services-assignment-start/node_modules
+/services-assignment-start/.angular/cache/*
 
 # IDEs and editors
 /.idea
